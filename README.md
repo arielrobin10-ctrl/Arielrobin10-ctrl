@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Hi%2C+Welcome+I'm+<Arielrobin10-ctrl>!;SOC+%2B+DFIR+background+%E2%86%92+Pursuing+CTI;Cloud+Security+%7C+Incident+Response+%7C+Automation;Building+real-world+blue-team+projects+in+public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Hi%2C+Welcome+I'm+<Ariel Robinson>!;SOC+%2B+DFIR+background+%E2%86%92+Pursuing+CTI;Cloud+Security+%7C+Incident+Response+%7C+Automation;Building+real-world+blue-team+projects+in+public" alt="Typing SVG" />
 </p>
 
 ## 🚀 A bit more about me:
