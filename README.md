@@ -58,22 +58,19 @@ Skills showcased:
 
 These projects focus on producing intelligence that’s **clear, credible, and actionable**—connecting raw observations to adversary behavior and defensive outcomes.
 
-### 🕵️ Scam Search Party (OSINT) — Verdant Charity Investigation
-Participated in a collaborative OSINT investigation into a Kenya-based advanced-fee scam platform. We worked to baseline proof it was fraudulent, identify what was being extracted from victims, and map the scam’s process.  
-**Skills used:** OSINT validation, infrastructure research, indicator development, documentation.
+### 🕵️ Scam Search Party (OSINT) — Verdant Charity
+Collaborated on an OSINT investigation of a Kenya-based advanced-fee scam: validated fraud signals, identified what was being collected from victims, and mapped the scam workflow.  
+**Skills:** OSINT validation • infrastructure research • indicator development • documentation  
+**Published investigation →** https://cybersecurityreach.org/investigations/verdant-charity-investigation
 
-**Read the published investigation →** https://cybersecurityreach.org/investigations/verdant-charity-investigation
-
-🍯 **Research Honeypot for Threat Telemetry**
-- **Description:** Designed and deployed a research honeypot environment to capture unauthorized access attempts and analyze attacker behavior for defensive insight.
-- **Focus:** Threat Telemetry • Attacker Behavior • Defensive Visibility
-- **Tools:** Honeypot platform • ELK/telemetry stack • Cloud (if applicable)
-- **Outcome:** Collected real-world signals and documented patterns that inform detection and monitoring priorities  
+🍯 **T-Pot Honeypot Lab (AWS)**
+Captured unauthorized access attempts in a research honeypot and analyzed attacker behavior to improve defensive visibility.  
+**Focus:** telemetry • attacker behavior • monitoring  
+**Tools:** T-Pot, Elk Stack, AWS 
 **View Project →** YOUR_LINK_HERE
 
-🧾 **Structured CTI Ingestion Reports (IOCs → Campaigns/TTPs)**
-- **Description:** Produced structured intelligence ingestion reports by extracting IOCs and linking them to campaigns, tools, and techniques.
-- **Focus:** IOC Extraction • ATT&CK Mapping • Intelligence Reporting
-- **Tools:** OpenCTI/MISP-style workflows • OSINT enrichment • MITRE ATT&CK
-- **Outcome:** Created repeatable reporting that ties indicators to context (campaigns + TTPs) for actionability  
+🧾 **CTI Ingestion Reports (IOCs → TTPs)**
+Extracted/enriched IOCs and linked them to campaigns and ATT&CK techniques in structured intel notes.  
+**Focus:** IOC extraction • ATT&CK mapping • reporting  
+**Tools:** OpenCTI/MISP-style workflow • OSINT enrichment  
 **View Project →** YOUR_LINK_HERE
