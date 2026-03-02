@@ -23,3 +23,13 @@ Skills showcased:
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </p>
+
+[![OpenCTI](https://img.shields.io/badge/OpenCTI-2E86AB?style=for-the-badge)](https://github.com/OpenCTI-Platform/opencti)
+[![SentinelOne](https://img.shields.io/badge/SentinelOne-7B2CBF?style=for-the-badge)](https://www.sentinelone.com/)
+[![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/elastic-stack/)
+[![Rapid7](https://img.shields.io/badge/Rapid7-F36F21?style=for-the-badge)](https://www.rapid7.com/)
+[![Abnormal%20Security](https://img.shields.io/badge/Abnormal%20Security-00A3E0?style=for-the-badge)](https://abnormalsecurity.com/)
+[![KnowBe4](https://img.shields.io/badge/KnowBe4-00B3A4?style=for-the-badge)](https://www.knowbe4.com/)
+[![Security%20Onion](https://img.shields.io/badge/Security%20Onion-6C757D?style=for-the-badge)](https://securityonion.net/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
