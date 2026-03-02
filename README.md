@@ -52,3 +52,28 @@ Skills showcased:
 ### Frameworks
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C1121F?style=for-the-badge)](https://attack.mitre.org/)
 [![NIST](https://img.shields.io/badge/NIST-0033A0?style=for-the-badge)](https://www.nist.gov/cyberframework)
+
+
+## 🔎 Cyber Threat Intelligence Projects
+
+These projects focus on producing intelligence that’s **clear, credible, and actionable**—connecting raw observations to adversary behavior and defensive outcomes.
+
+### 🕵️ Scam Search Party (OSINT) — Verdant Charity Investigation
+Participated in a collaborative OSINT investigation into a Kenya-based advanced-fee scam platform. We worked to baseline proof it was fraudulent, identify what was being extracted from victims, and map the scam’s process.  
+**Skills used:** OSINT validation, infrastructure research, indicator development, documentation.
+
+**Read the published investigation →** https://cybersecurityreach.org/investigations/verdant-charity-investigation
+
+🍯 **Research Honeypot for Threat Telemetry**
+- **Description:** Designed and deployed a research honeypot environment to capture unauthorized access attempts and analyze attacker behavior for defensive insight.
+- **Focus:** Threat Telemetry • Attacker Behavior • Defensive Visibility
+- **Tools:** Honeypot platform • ELK/telemetry stack • Cloud (if applicable)
+- **Outcome:** Collected real-world signals and documented patterns that inform detection and monitoring priorities  
+**View Project →** YOUR_LINK_HERE
+
+🧾 **Structured CTI Ingestion Reports (IOCs → Campaigns/TTPs)**
+- **Description:** Produced structured intelligence ingestion reports by extracting IOCs and linking them to campaigns, tools, and techniques.
+- **Focus:** IOC Extraction • ATT&CK Mapping • Intelligence Reporting
+- **Tools:** OpenCTI/MISP-style workflows • OSINT enrichment • MITRE ATT&CK
+- **Outcome:** Created repeatable reporting that ties indicators to context (campaigns + TTPs) for actionability  
+**View Project →** YOUR_LINK_HERE
