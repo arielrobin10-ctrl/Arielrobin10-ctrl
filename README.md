@@ -17,13 +17,24 @@ Skills showcased:
   
 ## 🧰 Skills & Technologies
 <p align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noopener noreferrer">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
+  </a>
+  <a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener noreferrer">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  </a>
 </p>
 
+### Security Platforms / Tooling
 [![OpenCTI](https://img.shields.io/badge/OpenCTI-2E86AB?style=for-the-badge)](https://github.com/OpenCTI-Platform/opencti)
 [![SentinelOne](https://img.shields.io/badge/SentinelOne-7B2CBF?style=for-the-badge)](https://www.sentinelone.com/)
 [![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/elastic-stack/)
@@ -33,3 +44,11 @@ Skills showcased:
 [![Security%20Onion](https://img.shields.io/badge/Security%20Onion-6C757D?style=for-the-badge)](https://securityonion.net/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
+
+### DFIR
+[![FTK Imager](https://img.shields.io/badge/FTK%20Imager-8E9AAF?style=for-the-badge)](https://www.exterro.com/ftk-imager)
+[![Autopsy](https://img.shields.io/badge/Autopsy-4C956C?style=for-the-badge)](https://www.autopsy.com/)
+
+### Frameworks
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C1121F?style=for-the-badge)](https://attack.mitre.org/)
+[![NIST](https://img.shields.io/badge/NIST-0033A0?style=for-the-badge)](https://www.nist.gov/cyberframework)
