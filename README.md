@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&center=true&vCenter=true&width=900&lines=Welcome%2C+I%27m+Ariel+Robinson;SOC+%2B+DFIR+to+CTI;Exploring+Cloud+Security+and+AI+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&center=true&vCenter=true&width=1100&lines=%F0%9F%91%8B+Welcome%2C+I%E2%80%99m+Ariel+Robinson;🛡️+SOC+%2B+DFIR+%E2%86%92+CTI;☁️+Exploring+Cloud+Security+%26+%F0%9F%A4%96+AI+Security;🎓+MS+Digital+Forensics+%26+Cybersecurity;🔎+My+goal%3A+make+organizations+safer+through+intelligence+%2B+detection;🧩+Telemetry+%E2%86%92+IOCs+%E2%86%92+ATT%26CK+detections;📌+Produce+intelligence+thats+clear%2C+credible%2C+and+actionable" alt="Typing SVG" />
 </p>
 
 ## 🚀 A bit more about me:
