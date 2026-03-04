@@ -15,9 +15,9 @@ Skills showcased:
 - 🤖 AI security awareness  
 - ⚙️ PowerShell/Python automation
   
-## 🧰 Skills & Technologies| | | | | |
-|---|---|---|---|---|
-| <a href="https://www.python.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> | <a href="https://learn.microsoft.com/powershell/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" /></a> | <a href="https://www.kernel.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a> | <a href="https://www.microsoft.com/windows"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a> | <a href="https://aws.amazon.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a> |
+## 🧰 Skills & Technologies
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a> <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" /> </a> <a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> </a> <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> </a> </p>
+
 
 ### Security Platforms / Tooling
 [![OpenCTI](https://img.shields.io/badge/OpenCTI-2E86AB?style=for-the-badge)](https://github.com/OpenCTI-Platform/opencti)
