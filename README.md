@@ -52,7 +52,7 @@ Collaborated on an OSINT investigation of a Kenya-based advanced-fee scam: valid
 Captured unauthorized access attempts in a research honeypot and analyzed attacker behavior to improve defensive visibility.  
 **Focus:** telemetry • attacker behavior • monitoring  
 **Tools:** T-Pot, Elk Stack, AWS 
-**View Project →** [YOUR_LINK_HERE](https://github.com/arielrobin10-ctrl/T-Pot-Honeypot-Lab/blob/main/TPOTCE%20Honeypot%20Deployment.docx)
+**View Project →** (https://github.com/arielrobin10-ctrl/T-Pot-Honeypot-Lab/blob/main/TPOTCE%20Honeypot%20Deployment.docx)
 
 🧾 **CTI Ingestion Reports (IOCs → TTPs)**
 Extracted/enriched IOCs and linked them to campaigns and ATT&CK techniques in structured intel notes.  
